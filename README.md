@@ -64,10 +64,6 @@ The RNN type model used here is the LSTM model. This model is attractive because
 
  
 
-PREPARED BY:- 
 
-Divyansh Singhal 
-
-(ML INTERN Team 8) 
 
  
